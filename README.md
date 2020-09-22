@@ -13,7 +13,7 @@
 * [Validación Cruzada](https://towardsdatascience.com/cross-validation-a-beginners-guide-5b8ca04962cd)
 * [Sobreajuste](https://towardsdatascience.com/overfitting-and-underfitting-in-machine-learning-89738c58f610)
 
-### Autovalores, Autovectores, PCA
+### Autovalores, Autovectores
 
 * [#Autovalores](https://towardsdatascience.com/tagged/eigenvalue)
 * [#Autovectores](https://towardsdatascience.com/tagged/eigenvectors)
@@ -22,3 +22,6 @@
 * [Visualizando los Autovalores y Autovectores](https://towardsdatascience.com/visualizing-eigenvalues-and-eigenvectors-e2f9e3ac58d7)
 * [PCA](https://towardsdatascience.com/pca-eigenvectors-and-eigenvalues-1f968bc6777a)
 
+### PCA
+
+* [PCA desde 0 en Python](https://towardsdatascience.com/principal-component-analysis-pca-from-scratch-in-python-7f3e2a540c51)
