@@ -11,6 +11,7 @@
 * [Métricas de Evaluación](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
 * [Matriz de Confusión](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
 * [Validación Cruzada](https://towardsdatascience.com/cross-validation-a-beginners-guide-5b8ca04962cd)
+* [VIDEO: Validación Cruzada](https://www.youtube.com/watch?v=fSytzGwwBVw&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2)
 * [Sobreajuste](https://towardsdatascience.com/overfitting-and-underfitting-in-machine-learning-89738c58f610)
 
 ### Redes Neuronales
