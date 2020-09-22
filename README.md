@@ -13,6 +13,10 @@
 * [Validación Cruzada](https://towardsdatascience.com/cross-validation-a-beginners-guide-5b8ca04962cd)
 * [Sobreajuste](https://towardsdatascience.com/overfitting-and-underfitting-in-machine-learning-89738c58f610)
 
+### Redes Neuronales
+
+* [Redes Neuronales](https://www.youtube.com/watch?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&v=Gv9_4yMHFhI&feature=emb_rel_end)
+
 ### Autovalores, Autovectores
 
 * [#Autovalores](https://towardsdatascience.com/tagged/eigenvalue)
